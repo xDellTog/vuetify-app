@@ -7,11 +7,11 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@mdi/font": "7.0.96",
-    "roboto-fontface": "*",
     "vue": "^3.2.38",
+    "vue-router": "4",
     "vuetify": "^3.0.0",
-    "webfontloader": "^1.0.0"
+    "@mdi/font": "7.0.96",
+    "pinia": "^2.0.28"
   },
   "devDependencies": {
     "@types/node": "^18.11.9",
